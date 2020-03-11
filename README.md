@@ -3,19 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Javascript Testing</h1>
+  <h1 align="center">Javascript Testing  👋</h1>
 </p>
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-  - [Table of Contents](#table-of-contents)
-  - [About The Project](#about-the-project)
-    - [Built With](#built-with)
-  - [Getting Started](#getting-started)
-  - [License](#license)
-  - [Author](#author)
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -35,26 +24,34 @@ This section should list any major frameworks that you built your project using.
 * [Jest](https://jestjs.io/docs/en/getting-started)
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To carry out test on this project, clone this repo and run: `npm run test` at the terminal.
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- AUTHORS -->
-
 ## Authors
 
-This project was executed by the duo of
-[Olga Pelts](https://github.com/pelzolga123) & [Tunde Oretade](https://twitter.com/tundeiness)
+👤 **Olga Pelts**
+   - Github: [@pelzolga123](https://github.com/pelzolga123)
+   - LinkedIn: [Olga Pelts](https://www.linkedin.com/in/olga-pelts/)
 
+👤 **Tunde Oretade**
+   - Github: [@tundeiness](https://github.com/tundeiness)
+   - LinkedIn: [Tunde Oretade](https://www.linkedin.com/in/tundeoretade/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/pelzolga123/JS-testing-practice/issues).
+
+1. Fork it (https://github.com/pelzolga123/JS-testing-practice/fork)
+2. Create your working branch (git checkout -b [choose-a-name])
+3. Commit your changes (git commit -am 'what this commit will fix/add')
+4. Push to the branch (git push origin feature/[feature-name])
+5. Create a new Pull Request
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
 
 
 
