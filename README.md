@@ -23,11 +23,18 @@ This section should list any major frameworks that you built your project using.
 * [Webpack](https://webpack.js.org/)
 * [Jest](https://jestjs.io/docs/en/getting-started)
 
+### Development
+* Install dependencies
+```sh
+npm install
+```
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Testing project
+* Run tests
 
-To carry out test on this project, clone this repo and run: `npm run test` at the terminal.
+```sh
+npm run test
+```
 
 ## Authors
 
