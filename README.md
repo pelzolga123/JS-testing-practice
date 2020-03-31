@@ -9,16 +9,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Test Driven Development is a big deal in the modern development landscape and, the main idea is simply that you start working on your code by writing automated tests before writing the code that is being tested. There are tons of benefits to working like this, all of which will be discussed in the resources below.
+Test-Driven Development is a big deal in the modern development landscape and, the main idea is simply that you start working on your code by writing automated tests before writing the code that is being tested. There are tons of benefits to working like this, all of which will be discussed in the resources below.
 
 This is the sixth project in the Microverse Javascript course. It tested our knowledge
 Objects, Object Constructors, Factory Functions, the Module Pattern, Classes,
 ES6 notation, Webpack and using Jest for running tests. There are many
-test-running systems available in JavaScript: Mocha, Jasmine, Tape and Jest etc.
+test-running systems available in JavaScript: Mocha, Jasmine, Tape, and Jest, etc.
 However, this project is centered around using Jest.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgments section. Here are a few examples.
 * [Javascript](https://www.javascript.com/)
 * [Webpack](https://webpack.js.org/)
 * [Jest](https://jestjs.io/docs/en/getting-started)
@@ -59,7 +59,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-
-
-
